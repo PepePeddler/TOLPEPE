@@ -1,5 +1,5 @@
 ---
-title: Self Release
+title: Fren Directory
 # your social media username
 twitter: 
 instagram: 

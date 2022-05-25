@@ -1,5 +1,5 @@
 ---
-title: Pepe Peddler
+title: Dank Directory
 # your social media username
 twitter: 
 instagram: 
