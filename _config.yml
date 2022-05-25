@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PHOCKHEADS
+title: Tol Pepe
 description: >- # this means to ignore newlines until "baseurl:"
-  Rescued from Namecoin Purgatory to live again on the Bitcoin Blockchain!
-author: Made by Mike In Space & Mario Dian
-telegram_channel:  PHOCKHEADS
-github_username: phockheads
-github_repo: phockheads
+  Tol Pepe is the Tolest Smol in Existence!
+author: Told by Pepe Peddler
+telegram_channel:  
+github_username: tolpepe
+github_repo: tolpepe
 
-#domain: mariodian.github.io     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-#url: https://mariodian.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-# baseurl: /phockheads
+#domain: pepepeddler.github.io     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#url: https://pepepeddler.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# baseurl: /tolpepe
 
 # Build settings
 theme: minima
